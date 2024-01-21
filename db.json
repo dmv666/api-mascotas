@@ -4,6 +4,7 @@
       {
         "id": "1",
         "name": "Guajolota de Tamal Verde",
+        "emmet": "Verde",
         "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587427/Imagenes%20guapjolotas/G-VERDE_ppkh3c.png",
         "sabores": [
           {
@@ -36,6 +37,7 @@
       {
         "id": "2",
         "name": "Guajolota de Tamal de Mole",
+        "emmet": "Mole",
         "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587426/Imagenes%20guapjolotas/G-MOLE_v64d8p.png",
         "sabores": [
           {
@@ -68,6 +70,7 @@
       {
         "id": "3",
         "name": "Guajolota de Tamal de piña",
+        "emmet": "Piña",
         "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587427/Imagenes%20guapjolotas/G-PI%C3%91A_ubewus.png",
         "sabores": [
           {
@@ -100,6 +103,7 @@
       {
         "id": "4",
         "name": "Guajolota de Tamal de Pasas",
+        "emmet": "Pasas",
         "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587426/Imagenes%20guapjolotas/G-PASAS_pllwx4.png",
         "sabores": [
           {
@@ -132,6 +136,7 @@
       {
         "id": "5",
         "name": "Guajolota de Tamal de Guayaba",
+        "emmet": "Guayaba",
         "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587426/Imagenes%20guapjolotas/G-GUAYABA_nmgad6.png",
         "sabores": [
           {
