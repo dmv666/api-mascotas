@@ -5,6 +5,7 @@
         "id": "1",
         "name": "Guajolota de Tamal Verde",
         "emmet": "Verde",
+        "type" : "guajolotes",
         "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587427/Imagenes%20guapjolotas/G-VERDE_ppkh3c.png",
         "sabores": [
           {
@@ -38,6 +39,7 @@
         "id": "2",
         "name": "Guajolota de Tamal de Mole",
         "emmet": "Mole",
+        "type" : "guajolotes",
         "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587426/Imagenes%20guapjolotas/G-MOLE_v64d8p.png",
         "sabores": [
           {
@@ -71,6 +73,7 @@
         "id": "3",
         "name": "Guajolota de Tamal de piña",
         "emmet": "Piña",
+        "type" : "guajolotes",
         "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587427/Imagenes%20guapjolotas/G-PI%C3%91A_ubewus.png",
         "sabores": [
           {
@@ -104,6 +107,7 @@
         "id": "4",
         "name": "Guajolota de Tamal de Pasas",
         "emmet": "Pasas",
+        "type" : "guajolotes",
         "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587426/Imagenes%20guapjolotas/G-PASAS_pllwx4.png",
         "sabores": [
           {
@@ -137,6 +141,7 @@
         "id": "5",
         "name": "Guajolota de Tamal de Guayaba",
         "emmet": "Guayaba",
+        "type" : "guajolotes",
         "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587426/Imagenes%20guapjolotas/G-GUAYABA_nmgad6.png",
         "sabores": [
           {
@@ -171,6 +176,7 @@
       {
         "id": "1",
         "name": "Champurrado",
+        "type" : "bebidas",
         "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587425/Imagenes%20guapjolotas/B-CHAMPURRADO_phdxoj.png",
         "sabores": [
           {
@@ -195,6 +201,7 @@
       {
         "id": "2",
         "name": "Atole de Arroz con Leche",
+        "type" : "bebidas",
         "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587425/Imagenes%20guapjolotas/B-ARROZ_CON_LECHE_vta3te.png",
         "sabores": [
           {
@@ -219,6 +226,7 @@
       {
         "id": "3",
         "name": "Chocolate Caliente",
+        "type" : "bebidas",
         "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587425/Imagenes%20guapjolotas/B-CHAMPURRADO_phdxoj.png",
         "sabores": [
           {
@@ -243,6 +251,7 @@
       {
         "id": "4",
         "name": "Café Negro",
+        "type" : "bebidas",
         "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587425/Imagenes%20guapjolotas/B-CHAMPURRADO_phdxoj.png",
         "sabores": [
           {
@@ -269,6 +278,7 @@
       {
         "id": "1",
         "name": "Tamal Verde",
+        "type" : "tamales",
         "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587429/Imagenes%20guapjolotas/T-VERDE_qdbpna.png",
         "sabores": [
           {
@@ -301,6 +311,7 @@
       {
         "id": "2",
         "name": "Tamal de Mole",
+        "type" : "tamales",
         "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587429/Imagenes%20guapjolotas/T-MOLE_kd85ue.png",
         "sabores": [
           {
@@ -333,6 +344,7 @@
       {
         "id": "3",
         "name": "Tamal de Guayaba",
+        "type" : "tamales",
         "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587429/Imagenes%20guapjolotas/TD-GUAYABA_goyskm.png",
         "sabores": [
           {
@@ -365,6 +377,7 @@
       {
         "id": "4",
         "name": "Tamal de Piña",
+        "type" : "tamales",
         "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705587430/Imagenes%20guapjolotas/TD-PI%C3%91A_qfhege.png",
         "sabores": [
           {
@@ -397,6 +410,7 @@
       {
         "id": "5",
         "name": "Tamal de Pasas",
+        "type" : "tamales",
         "img": "https://res.cloudinary.com/dv5xqlkbn/image/upload/v1705590921/Imagenes%20guapjolotas/TD-PASAS_hd4grr.png",
         "sabores": [
           {
